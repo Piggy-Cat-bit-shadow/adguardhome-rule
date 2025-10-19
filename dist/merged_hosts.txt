@@ -18349,6 +18349,7 @@
 0.0.0.0 boffoadsfeeds.com
 0.0.0.0 bofitsaign.net
 0.0.0.0 bofnhn.com
+0.0.0.0 bofstrycidmej.net
 0.0.0.0 bofuckoastails.net
 0.0.0.0 bogads.com
 0.0.0.0 bogfernallo.cfd
@@ -52625,6 +52626,7 @@
 0.0.0.0 jheva.com
 0.0.0.0 jhf4eib1zb.com
 0.0.0.0 jhfjslomqzfte.site
+0.0.0.0 jhfqvremtxn.com
 0.0.0.0 jhfuhi.b-exit.com
 0.0.0.0 jhjgytufwxw.com
 0.0.0.0 jhkfd.com
@@ -71342,6 +71344,7 @@
 0.0.0.0 ntsnaeutglamx.rocks
 0.0.0.0 ntstqslyfmztgi.com
 0.0.0.0 ntt-fletscv.ntt-flets.com
+0.0.0.0 nttsmbcnjpvtv.space
 0.0.0.0 ntttesca.com
 0.0.0.0 ntugmqcfgcr.xyz
 0.0.0.0 nturnm.unisport.dk
@@ -111642,6 +111645,7 @@
 0.0.0.0 vymqazwkzanky.top
 0.0.0.0 vymybkyrzjlkw.top
 0.0.0.0 vymybkyrzjlym.top
+0.0.0.0 vymybkyrzjvbl.top
 0.0.0.0 vymybkyrzvwky.top
 0.0.0.0 vyomkbmowzojq.top
 0.0.0.0 vyoning.cfd
