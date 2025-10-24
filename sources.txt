@@ -1,8 +1,10 @@
 # AdGuard规则
 # 官方列表
+# uBlock filters
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
-# https://small.oisd.nl
-# https://badmojr.github.io/1Hosts/Lite/adblock.txt
+https://small.oisd.nl
+https://badmojr.github.io/1Hosts/Lite/adblock.txt
 # https://hblock.molinero.dev/hosts_adblock.txt
 # 基础
 https://filters.adtidy.org/android/filters/2_optimized.txt
@@ -14,6 +16,8 @@ https://filters.adtidy.org/android/filters/2_optimized.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+# EasyList
+https://easylist-downloads.adblockplus.org/v3/full/easylist.txt
 # AdGuard中文
 https://filters.adtidy.org/android/filters/224_optimized.txt
 # 移动
