@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.tx
 # EasyList
 # https://easylist-downloads.adblockplus.org/v3/full/easylist.txt
 # AdGuard中文
-https://filters.adtidy.org/android/filters/224_optimized.txt
+# https://filters.adtidy.org/android/filters/224_optimized.txt
 # 移动
-https://filters.adtidy.org/android/filters/11_optimized.txt
+# https://filters.adtidy.org/android/filters/11_optimized.txt
 # 恼人
 # https://filters.adtidy.org/android/filters/14_optimized.txt
 
