@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.tx
 # https://filters.adtidy.org/android/filters/14_optimized.txt
 
 # 规则合集
-https://anti-ad.net/adguard.txt
+# https://anti-ad.net/adguard.txt
 https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
 # https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 # https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
@@ -37,9 +37,9 @@ https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
 # 小规则
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Replenish.txt
-https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt
+# https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+# https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+# https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt
 
 # 其他规则
 # https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
