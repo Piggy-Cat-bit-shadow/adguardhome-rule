@@ -7,7 +7,7 @@
 # https://badmojr.github.io/1Hosts/Lite/adblock.txt
 # https://hblock.molinero.dev/hosts_adblock.txt
 # 基础
-https://filters.adtidy.org/android/filters/2_optimized.txt
+# https://filters.adtidy.org/android/filters/2_optimized.txt
 # 防跟踪
 # https://filters.adtidy.org/android/filters/3_optimized.txt
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.tx
 # EasyList
 # https://easylist-downloads.adblockplus.org/v3/full/easylist.txt
 # AdGuard中文
-https://filters.adtidy.org/android/filters/224_optimized.txt
+# https://filters.adtidy.org/android/filters/224_optimized.txt
 # 移动
 https://filters.adtidy.org/android/filters/11_optimized.txt
 # 恼人
