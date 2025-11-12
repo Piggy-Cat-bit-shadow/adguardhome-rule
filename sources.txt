@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.tx
 # https://filters.adtidy.org/android/filters/14_optimized.txt
 
 # 规则合集
-# https://anti-ad.net/adguard.txt
-# https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
+https://anti-ad.net/adguard.txt
+https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
 # https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
 # https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 # https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt
