@@ -1,8 +1,8 @@
 # AdGuard规则
 # 官方列表
 # uBlock filters
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
+# https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+# https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 # https://small.oisd.nl
 # https://badmojr.github.io/1Hosts/Lite/adblock.txt
 # https://hblock.molinero.dev/hosts_adblock.txt
@@ -53,7 +53,7 @@ https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt
 # https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 # https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
-https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt
+# https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt
 # https://raw.githubusercontent.com/qq5460168/666/master/rules.txt
 # https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt
 
