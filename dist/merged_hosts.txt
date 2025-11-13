@@ -48,8 +48,10 @@
 0.0.0.0 0a0atz2sh.top
 0.0.0.0 0b4qu3nxa.com
 0.0.0.0 0b6rvr210q.com
+0.0.0.0 0bb8jytek.com
 0.0.0.0 0dwm.icu
 0.0.0.0 0er7pc8.xyz
+0.0.0.0 0h9yewgei.com
 0.0.0.0 0iem8mw1lx.com
 0.0.0.0 0krdn3.com
 0.0.0.0 0m483y7.cn
@@ -475,6 +477,7 @@
 0.0.0.0 68710266.com
 0.0.0.0 6888.site
 0.0.0.0 68s4eyiru.com
+0.0.0.0 68td4yete.com
 0.0.0.0 69e7.fun
 0.0.0.0 69mok.com
 0.0.0.0 6c641lgikp.top
@@ -885,6 +888,7 @@
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
 0.0.0.0 ad.richmob.cn
+0.0.0.0 ad.shunchangzhixing.com
 0.0.0.0 ad.sitemaji.com
 0.0.0.0 ad.szhsx.net
 0.0.0.0 ad.tencentmusic.com
@@ -1019,7 +1023,6 @@
 0.0.0.0 adsebs.ximalaya.com
 0.0.0.0 adsense.google.cn
 0.0.0.0 adserver.unityads.unity3d.com
-0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.sigmob.cn
 0.0.0.0 adserviceretry.kugou.com
@@ -1129,6 +1132,7 @@
 0.0.0.0 ailehui9149.com
 0.0.0.0 aillaeuyn.com
 0.0.0.0 airakgyl.com
+0.0.0.0 airline49.top
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 aisnj.cn
 0.0.0.0 aispyd.icu
@@ -1285,6 +1289,7 @@
 0.0.0.0 api.36dfsa.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.anythinktech.com
+0.0.0.0 api.aqyad.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.cxzudwk.com
 0.0.0.0 api.e.kuaishou.com
@@ -1299,6 +1304,7 @@
 0.0.0.0 api.qcmm07.com
 0.0.0.0 api.qvpublish.com
 0.0.0.0 api.scwsf.com
+0.0.0.0 api.shanghailingye.cn
 0.0.0.0 api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
 0.0.0.0 api.touch-moblie.com
@@ -1337,6 +1343,7 @@
 0.0.0.0 aquvg.com
 0.0.0.0 aqvwn18102h.com
 0.0.0.0 aqxh9x1o7m.com
+0.0.0.0 aqyad.com
 0.0.0.0 areyoutherenow.com
 0.0.0.0 arkn81.com
 0.0.0.0 arlavilqyt.com
@@ -1962,7 +1969,6 @@
 0.0.0.0 ccnim.xyz
 0.0.0.0 ccokamif.top
 0.0.0.0 ccs.umeng.com
-0.0.0.0 cctv.adsunion.com
 0.0.0.0 cd2bkmz3rz.com
 0.0.0.0 cdcqee.com
 0.0.0.0 cdgfa.ifeng.com
@@ -2101,7 +2107,6 @@
 0.0.0.0 citadelpathstatue.com
 0.0.0.0 city.youpukeji.cn
 0.0.0.0 cix0wk.com
-0.0.0.0 cj.qidian.com
 0.0.0.0 cjgdch.com
 0.0.0.0 cjimtyf.top
 0.0.0.0 cjphjf4zm.com
@@ -2126,6 +2131,7 @@
 0.0.0.0 clkwnl.xyz
 0.0.0.0 clldirectasianew.club
 0.0.0.0 clog.miguvideo.com
+0.0.0.0 cloooud.com
 0.0.0.0 clorso.icu
 0.0.0.0 cloud-log.yy.com
 0.0.0.0 cloudasbook.com
@@ -2278,7 +2284,6 @@
 0.0.0.0 cweisif.top
 0.0.0.0 cweizaf.top
 0.0.0.0 cwilmif.top
-0.0.0.0 cws-cctv.conviva.com
 0.0.0.0 cx0001.cn
 0.0.0.0 cxgfq.pinlue.com
 0.0.0.0 cxs.mibaoge.com
@@ -3010,6 +3015,7 @@
 0.0.0.0 evkc.cn
 0.0.0.0 evreiks.com
 0.0.0.0 evtubescms.phncdn.com
+0.0.0.0 ewbaenkiu.com
 0.0.0.0 ewbs.cn
 0.0.0.0 ewcnmtw.top
 0.0.0.0 ewdk.cn
@@ -3077,6 +3083,7 @@
 0.0.0.0 falsarywaybung.com
 0.0.0.0 familly56.top
 0.0.0.0 famorlymal.com
+0.0.0.0 fancyapi.com
 0.0.0.0 fangcunzhijian1.cn
 0.0.0.0 fangfeng009.xyz
 0.0.0.0 fanjs.top
@@ -3325,6 +3332,7 @@
 0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g.3lian.com
 0.0.0.0 g.dtv.cn.miaozhen.com
+0.0.0.0 g.fancyapi.com
 0.0.0.0 g.gegeyingshi.com
 0.0.0.0 g.hsw.cn
 0.0.0.0 g.lznews.cn
@@ -3549,7 +3557,6 @@
 0.0.0.0 gonpc.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick-cn.net
-0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
@@ -4343,7 +4350,6 @@
 0.0.0.0 itqyik.icu
 0.0.0.0 ittaels.com
 0.0.0.0 itv.hexun.com
-0.0.0.0 itv2-up.openspeech.cn
 0.0.0.0 itweepinbelltor.com
 0.0.0.0 itxinrou.com
 0.0.0.0 ityangstudy.cn
@@ -4952,6 +4958,7 @@
 0.0.0.0 l3r6p0d5.com
 0.0.0.0 l4efwdtg.icu
 0.0.0.0 l5pzbzfnjm.com
+0.0.0.0 l6.fancyapi.com
 0.0.0.0 l80ays.com
 0.0.0.0 laawmmy.cn
 0.0.0.0 lagzoids.com
@@ -5029,6 +5036,7 @@
 0.0.0.0 lfkheedokhld.com
 0.0.0.0 lflmdm.com
 0.0.0.0 lftcph.icu
+0.0.0.0 lftxali.fancyapi.com
 0.0.0.0 lfzk2cp.icu
 0.0.0.0 lg0lh2qfj4.com
 0.0.0.0 lgaicreal.com
@@ -5131,6 +5139,8 @@
 0.0.0.0 lls11111ko.com
 0.0.0.0 lls11120ko.com
 0.0.0.0 lls11121ko.com
+0.0.0.0 lls11130ko.com
+0.0.0.0 lls11131ko.com
 0.0.0.0 llw67onw6.com
 0.0.0.0 lm.ijq.tv
 0.0.0.0 lm1.tuliu.com
@@ -5976,6 +5986,7 @@
 0.0.0.0 nyjelh.icu
 0.0.0.0 nyokruzoir.com
 0.0.0.0 nyvgbt.xyz
+0.0.0.0 nzeikrar.com
 0.0.0.0 nzl09250oa.com
 0.0.0.0 nzl09251oa.com
 0.0.0.0 nzl09260oa.com
@@ -6165,6 +6176,7 @@
 0.0.0.0 open.kwaizt.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 open.snssdk.com
+0.0.0.0 openadapi.fancydsp.com
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ophwrh.cn
 0.0.0.0 opicrutuk.com
@@ -6917,11 +6929,11 @@
 0.0.0.0 resource.baomihua.com
 0.0.0.0 restorationbowelsunflower.com
 0.0.0.0 retrieval-bd.duote.com
-0.0.0.0 rev.aiclk.com
 0.0.0.0 review.gdtimg.com
 0.0.0.0 revk.cn
 0.0.0.0 rewvfghoya.com
 0.0.0.0 rf.cnlongshou.com
+0.0.0.0 rf10b9mq8.com
 0.0.0.0 rfgsdgg.top
 0.0.0.0 rfilmalmz.com
 0.0.0.0 rfnenr.xyz
@@ -7206,6 +7218,7 @@
 0.0.0.0 sdk.1rtb.net
 0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.adx.adwangmai.com
+0.0.0.0 sdk.aqyad.com
 0.0.0.0 sdk.beizi.biz
 0.0.0.0 sdk.cferw.com
 0.0.0.0 sdk.e.qq.com
@@ -7213,6 +7226,7 @@
 0.0.0.0 sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
 0.0.0.0 sdk.sipujia.cn
+0.0.0.0 sdkapi.cloooud.com
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 sdkauth.hpplay.cn
@@ -7326,7 +7340,6 @@
 0.0.0.0 siconoi.com
 0.0.0.0 sifa.aak7.cn
 0.0.0.0 sifyeldb.top
-0.0.0.0 sigmob.cn
 0.0.0.0 sigmob.com
 0.0.0.0 sikaq.top
 0.0.0.0 sikvoilst.com
@@ -7378,7 +7391,6 @@
 0.0.0.0 sm2ralisg.com
 0.0.0.0 smabye.com
 0.0.0.0 smad.ms.zhangyue.net
-0.0.0.0 smart-tv.cn
 0.0.0.0 smartad.10010.com
 0.0.0.0 smartmail.cyou
 0.0.0.0 smartmuchang.com
@@ -7452,6 +7464,7 @@
 0.0.0.0 sslbahb.top
 0.0.0.0 ssnnn.net
 0.0.0.0 ssp.21ic.com
+0.0.0.0 ssp.cloooud.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.kdnet.net
 0.0.0.0 ssp.moeli.net
@@ -7500,6 +7513,7 @@
 0.0.0.0 static.rongkao.com
 0.0.0.0 static.wjxcdn.com
 0.0.0.0 static.wxqcloud.qq.com.cn
+0.0.0.0 statichf.shihuocdn.cn
 0.0.0.0 statics.woozooo.com
 0.0.0.0 statics88.vip
 0.0.0.0 staticsns.cdn.bcebos.com
@@ -7620,6 +7634,7 @@
 0.0.0.0 t1d26dvout.com
 0.0.0.0 t1tgame.com
 0.0.0.0 t2.a.market.xiaomi.com
+0.0.0.0 t2.fancyapi.com
 0.0.0.0 t23o.cn
 0.0.0.0 t28goe.cn
 0.0.0.0 t2q0gv7zjg.com
@@ -7823,6 +7838,7 @@
 0.0.0.0 tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 0.0.0.0 tnc3-aliec2.zijieapi
+0.0.0.0 tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 0.0.0.0 tnc3-alisc1.snssdk.com
 0.0.0.0 tnc3-alisc1.toutiaoapi.com
@@ -7881,6 +7897,7 @@
 0.0.0.0 tquspo.com
 0.0.0.0 tqytqdrq.icu
 0.0.0.0 tr-asia.adsmoloco.com
+0.0.0.0 trace.aqyad.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
@@ -8271,6 +8288,7 @@
 0.0.0.0 utihriethlv.com
 0.0.0.0 utimiyt.top
 0.0.0.0 utmostxu.com
+0.0.0.0 utoken.umeng.com
 0.0.0.0 uttlinediv.top
 0.0.0.0 uturiw.icu
 0.0.0.0 utve.cn
@@ -8474,6 +8492,7 @@
 0.0.0.0 vkjsnvk.com
 0.0.0.0 vksy.cn
 0.0.0.0 vktztp.xyz
+0.0.0.0 vkur.cn
 0.0.0.0 vkxn.cn
 0.0.0.0 vl3rw9roj.com
 0.0.0.0 vldp.cn
@@ -9244,6 +9263,8 @@
 0.0.0.0 xxsmtz10.com
 0.0.0.0 xxsywxj.com
 0.0.0.0 xxtalp.xyz
+0.0.0.0 xxts11130zs.com
+0.0.0.0 xxts11131zs.com
 0.0.0.0 xxxviijmp.com
 0.0.0.0 xxxvjmp.com
 0.0.0.0 xxxx68xxxx.com

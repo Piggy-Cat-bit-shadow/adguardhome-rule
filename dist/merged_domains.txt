@@ -47,8 +47,10 @@
 0a0atz2sh.top
 0b4qu3nxa.com
 0b6rvr210q.com
+0bb8jytek.com
 0dwm.icu
 0er7pc8.xyz
+0h9yewgei.com
 0iem8mw1lx.com
 0krdn3.com
 0m483y7.cn
@@ -474,6 +476,7 @@
 68710266.com
 6888.site
 68s4eyiru.com
+68td4yete.com
 69e7.fun
 69mok.com
 6c641lgikp.top
@@ -884,6 +887,7 @@ ad.partner.gifshow.com
 ad.qingting.fm
 ad.qq.com
 ad.richmob.cn
+ad.shunchangzhixing.com
 ad.sitemaji.com
 ad.szhsx.net
 ad.tencentmusic.com
@@ -1018,7 +1022,6 @@ adse.ximalaya.com
 adsebs.ximalaya.com
 adsense.google.cn
 adserver.unityads.unity3d.com
-adservice.google.cn
 adservice.google.com
 adservice.sigmob.cn
 adserviceretry.kugou.com
@@ -1128,6 +1131,7 @@ aigfednd.icu
 ailehui9149.com
 aillaeuyn.com
 airakgyl.com
+airline49.top
 aiseet.aa.atianqi.com
 aisnj.cn
 aispyd.icu
@@ -1284,6 +1288,7 @@ api.1101yh.com
 api.36dfsa.com
 api.ad.xiaomi.com
 api.anythinktech.com
+api.aqyad.com
 api.bugsnag.com
 api.cxzudwk.com
 api.e.kuaishou.com
@@ -1298,6 +1303,7 @@ api.kwaizt.com
 api.qcmm07.com
 api.qvpublish.com
 api.scwsf.com
+api.shanghailingye.cn
 api.ssp.xcultur.com
 api.statsig.com
 api.touch-moblie.com
@@ -1336,6 +1342,7 @@ aqilk66444a.xyz
 aquvg.com
 aqvwn18102h.com
 aqxh9x1o7m.com
+aqyad.com
 areyoutherenow.com
 arkn81.com
 arlavilqyt.com
@@ -1961,7 +1968,6 @@ cclimif.top
 ccnim.xyz
 ccokamif.top
 ccs.umeng.com
-cctv.adsunion.com
 cd2bkmz3rz.com
 cdcqee.com
 cdgfa.ifeng.com
@@ -2100,7 +2106,6 @@ cinemaup.top
 citadelpathstatue.com
 city.youpukeji.cn
 cix0wk.com
-cj.qidian.com
 cjgdch.com
 cjimtyf.top
 cjphjf4zm.com
@@ -2125,6 +2130,7 @@ cliffed.top
 clkwnl.xyz
 clldirectasianew.club
 clog.miguvideo.com
+cloooud.com
 clorso.icu
 cloud-log.yy.com
 cloudasbook.com
@@ -2277,7 +2283,6 @@ cwcnmtf.top
 cweisif.top
 cweizaf.top
 cwilmif.top
-cws-cctv.conviva.com
 cx0001.cn
 cxgfq.pinlue.com
 cxs.mibaoge.com
@@ -3009,6 +3014,7 @@ evidhjksdtgyxrh.xyz
 evkc.cn
 evreiks.com
 evtubescms.phncdn.com
+ewbaenkiu.com
 ewbs.cn
 ewcnmtw.top
 ewdk.cn
@@ -3076,6 +3082,7 @@ falal.cn
 falsarywaybung.com
 familly56.top
 famorlymal.com
+fancyapi.com
 fangcunzhijian1.cn
 fangfeng009.xyz
 fanjs.top
@@ -3324,6 +3331,7 @@ g-adnet.hiaiabc.com
 g-staic.ganjingworld.com
 g.3lian.com
 g.dtv.cn.miaozhen.com
+g.fancyapi.com
 g.gegeyingshi.com
 g.hsw.cn
 g.lznews.cn
@@ -3548,7 +3556,6 @@ gongyong002.xyz
 gonpc.com
 google-analytics.com
 googleads.g.doubleclick-cn.net
-googleads.g.doubleclick.com
 googleads.g.doubleclick.net
 googleadservices-cn.com
 googleadservices.com
@@ -4342,7 +4349,6 @@ itqseeh.icu
 itqyik.icu
 ittaels.com
 itv.hexun.com
-itv2-up.openspeech.cn
 itweepinbelltor.com
 itxinrou.com
 ityangstudy.cn
@@ -4951,6 +4957,7 @@ l23jhjfasd.xyz
 l3r6p0d5.com
 l4efwdtg.icu
 l5pzbzfnjm.com
+l6.fancyapi.com
 l80ays.com
 laawmmy.cn
 lagzoids.com
@@ -5028,6 +5035,7 @@ lfjtiuy.cn
 lfkheedokhld.com
 lflmdm.com
 lftcph.icu
+lftxali.fancyapi.com
 lfzk2cp.icu
 lg0lh2qfj4.com
 lgaicreal.com
@@ -5130,6 +5138,8 @@ lls11110ko.com
 lls11111ko.com
 lls11120ko.com
 lls11121ko.com
+lls11130ko.com
+lls11131ko.com
 llw67onw6.com
 lm.ijq.tv
 lm1.tuliu.com
@@ -5975,6 +5985,7 @@ nxxyjn.com
 nyjelh.icu
 nyokruzoir.com
 nyvgbt.xyz
+nzeikrar.com
 nzl09250oa.com
 nzl09251oa.com
 nzl09260oa.com
@@ -6164,6 +6175,7 @@ open.kuaishouzt.com
 open.kwaizt.com
 open.oneplus.net
 open.snssdk.com
+openadapi.fancydsp.com
 openrcv.baidu.com
 ophwrh.cn
 opicrutuk.com
@@ -6916,11 +6928,11 @@ resolve.umeng.com
 resource.baomihua.com
 restorationbowelsunflower.com
 retrieval-bd.duote.com
-rev.aiclk.com
 review.gdtimg.com
 revk.cn
 rewvfghoya.com
 rf.cnlongshou.com
+rf10b9mq8.com
 rfgsdgg.top
 rfilmalmz.com
 rfnenr.xyz
@@ -7205,6 +7217,7 @@ sdk-cache.video.ptqy.gitv.tv
 sdk.1rtb.net
 sdk.ad.smaato.net
 sdk.adx.adwangmai.com
+sdk.aqyad.com
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
@@ -7212,6 +7225,7 @@ sdk.hzsanjiaomao.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
 sdk.sipujia.cn
+sdkapi.cloooud.com
 sdkapp.mobile.sina.cn
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -7325,7 +7339,6 @@ shzzzz.dftoutiao.com
 siconoi.com
 sifa.aak7.cn
 sifyeldb.top
-sigmob.cn
 sigmob.com
 sikaq.top
 sikvoilst.com
@@ -7377,7 +7390,6 @@ sm2kz.net
 sm2ralisg.com
 smabye.com
 smad.ms.zhangyue.net
-smart-tv.cn
 smartad.10010.com
 smartmail.cyou
 smartmuchang.com
@@ -7451,6 +7463,7 @@ ssl.linyiccic.com
 sslbahb.top
 ssnnn.net
 ssp.21ic.com
+ssp.cloooud.com
 ssp.hinet.net
 ssp.kdnet.net
 ssp.moeli.net
@@ -7499,6 +7512,7 @@ static.ptoahaistais.com
 static.rongkao.com
 static.wjxcdn.com
 static.wxqcloud.qq.com.cn
+statichf.shihuocdn.cn
 statics.woozooo.com
 statics88.vip
 staticsns.cdn.bcebos.com
@@ -7619,6 +7633,7 @@ t1.xuefen.com.cn
 t1d26dvout.com
 t1tgame.com
 t2.a.market.xiaomi.com
+t2.fancyapi.com
 t23o.cn
 t28goe.cn
 t2q0gv7zjg.com
@@ -7822,6 +7837,7 @@ tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com
 tnc3-aliec2.toutiaoapi.com
 tnc3-aliec2.zijieapi
+tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
@@ -7880,6 +7896,7 @@ tqub.cn
 tquspo.com
 tqytqdrq.icu
 tr-asia.adsmoloco.com
+trace.aqyad.com
 trace.qq.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
@@ -8270,6 +8287,7 @@ utienlt.top
 utihriethlv.com
 utimiyt.top
 utmostxu.com
+utoken.umeng.com
 uttlinediv.top
 uturiw.icu
 utve.cn
@@ -8473,6 +8491,7 @@ vkjqbb.xyz
 vkjsnvk.com
 vksy.cn
 vktztp.xyz
+vkur.cn
 vkxn.cn
 vl3rw9roj.com
 vldp.cn
@@ -9243,6 +9262,8 @@ xxsmcps.com
 xxsmtz10.com
 xxsywxj.com
 xxtalp.xyz
+xxts11130zs.com
+xxts11131zs.com
 xxxviijmp.com
 xxxvjmp.com
 xxxx68xxxx.com
