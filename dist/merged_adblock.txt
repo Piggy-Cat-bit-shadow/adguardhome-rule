@@ -1,5 +1,5 @@
 ! Unified Adblock list for AdGuard Home (DNS)
-! Generated at: 2025-11-13 18:32:10 UTC
+! Generated at: 2025-11-13 18:37:02 UTC
 ! Sources:
 !  - https://easylist-downloads.adblockplus.org/easylistchina.txt
 !  - https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
