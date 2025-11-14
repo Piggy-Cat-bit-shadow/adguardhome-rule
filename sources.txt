@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 # https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 https://small.oisd.nl
 https://badmojr.github.io/1Hosts/Lite/adblock.txt
-https://hblock.molinero.dev/hosts_adblock.txt
+# https://hblock.molinero.dev/hosts_adblock.txt
 # 基础
 https://filters.adtidy.org/android/filters/2_optimized.txt
 # 防跟踪
